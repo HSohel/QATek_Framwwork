@@ -1,4 +1,4 @@
-# Repository: QATek_Framwwork
+# Repository: QATek_Framework
 
 ###
 1. close the repository into your local machine
@@ -7,4 +7,4 @@
 4. You can execute the script in 2 ways, 
     1. using TestNG.xml 
     2. using Terminal (command mvn clean test)
-    
+ 
