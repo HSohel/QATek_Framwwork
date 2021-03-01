@@ -7,4 +7,5 @@
 4. You can execute the script in two ways, 
     1. using TestNG.xml 
     2. using Terminal (command mvn clean test)
+   3. This is for testing
  
